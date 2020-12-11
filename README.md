@@ -17,3 +17,9 @@ including: number of votes, winner, track type, day/night, and
 time of race. So, I'm going analyze this data, try to make
 some interesting interactive visualizations, then share them
 through Streamlit. Let's get started!
+
+## Technologies
+ - Python 3.8.3
+ - numpy 1.19.4
+ - pandas 1.1.4
+ - plotly 4.13.0
