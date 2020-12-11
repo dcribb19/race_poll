@@ -1,0 +1,187 @@
+Year,Race,Yes %,No %,Votes,Winner,Visit,Type,Day/Night,Time of race
+2020,Bristol 1,94.9,5.1,"20,529",Keselowski,First,Short,Day,3:19
+2018,Bristol 2,94.8,5.2,"10,276",KuBusch,Second,Short,Night,2:59
+2020,Talladega 1,94.3,5.7,"23,414",Blaney,First,Super,Day,3:27
+2018,Watkins Glen,94.3,5.7,"8,325",Elliott,Only,Road,Day,2:14
+2019,Bristol 2,94.1,5.9,"13,701",Hamlin,Second,Short,Night,2:49
+2020,Darlington 2,93.8,6.2,"14,982",Hamlin,Second,Intermediate,Night,2:42
+2017,Martinsville 2,92.8,7.2,"7,207",KyBusch,Second,Short,Day,3:33
+2018,Char. Roval,92.8,7.2,"12,092",Blaney,Only,Road,Day,3:02
+2016,Dover 1,92.6,7.4,"2,404",Kenseth,First,1-mile,Day,3:39
+2018,Chicago,92.1,7.9,"10,432",KyBusch,Only,Intermediate,Day,2:51
+2016,Sonoma,91.6,8.4,"2,534",Stewart,Only,Road,Day,2:42
+2019,All-Star,90.8,9.2,"10,255",Larson,First,Intermediate,Night,1:36
+2016,Fontana,90.3,9.7,"2,154",Johnson,Only,2-mile,Day,2:59
+2019,Talladega 1,90.2,9.8,"16,995",Elliott,First,Super,Day,3:06
+2020,Daytona 2,90,10,"18,523",Byron,Second,Super,Night,2:40
+2017,Martinsville 1,89.6,10.4,"4,502",Keselowski,First,Short,Day,3:45
+2018,Martinsville 2,89.6,10.4,"9,975",Logano,Second,Short,Day,3:30
+2019,Kansas 1,89.6,10.4,"12,264",Keselowski,First,Intermediate,Night,3:06
+2020,Phoenix 1,89.4,10.6,"18,653",Logano,First,1-mile,Day,3:21
+2019,Chicago,89,11,"12,379",Bowman,Only,Intermediate,Day,2:51
+2020,Martinsville 2,88.8,11.2,"20,143",Elliott,Second,Short,Day,3:40
+2019,Talladega 2,88,12,"13,772",Blaney,Second,Super,Day,3:40
+2017,Talladega 1,88,12,"4,666",Stenhouse,First,Super,Day,3:29
+2017,Phoenix 2,88,12,"5,176",Kenseth,Second,1-mile,Day,2:57
+2018,Bristol 1,87.9,12.1,"5,914",KyBusch,First,Short,Day,3:26
+2020,Darlington 1,87.6,12.4,"16,510",Harvick,First,Intermediate,Day,3:27
+2019,Char. Roval,87,13,"13,910",Elliott,Only,Road,Day,3:21
+2016,Watkins Glen,87,13,"2,738",Hamlin,Only,Road,Day,2:28
+2017,Bristol 1,86.4,13.6,"3,234",Johnson,First,Short,Day,3:04
+2016,Homestead,86.3,13.7,"2,377",Johnson,Only,Intermediate,Day,3:07
+2019,Bristol 1,86.2,13.8,"13,237",KyBusch,First,Short,Day,2:57
+2019,Coke 600,86,14,"12,930",Truex,Second,Intermediate,Night,4:50
+2016,Richmond 1,85,15,"3,249",Edwards,First,Short,Day,3:05
+2018,Las Vegas 2,84.5,16,"6,541",Keselowski,Second,Intermediate,Day,3:28
+2018,Daytona 1,84,16,"4,839",A. Dillon,First,Super,Day,3:26
+2016,Phoenix 2,84,16,"2,473",Logano,Second,1-mile,Day,3:09
+2019,Watkins Glen,84,16,"12,193",Elliott,Only,Road,Day,2:14
+2018,All-Star,84,16,"7,975",Harvick,First,Intermediate,Night,1:39
+2020,Char. Roval,83.6,16.4,"13,498",Elliott,Only,Road,Day,3:17
+2020,Las Vegas 1,83.5,16.5,"17,087",Logano,First,Intermediate,Day,2:58
+2019,Darlington,83,17,"12,819",Jones,Only,Other,Night,3:45
+2017,Kansas 1,83,17,"4,148",Truex,First,Intermediate,Night,3:24
+2018,Phoenix 2,83,17,"6,292",KyBusch,Second,1-mile,Day,3:10
+2018,New Hamp.,83,17,"6,792",Harvick,Only,1-mile,Day,2:53
+2017,Homestead,82.1,17.9,"5,116",Truex,Only,Intermediate,Day,3:02
+2016,Phoenix 1,81,19,"2,008",Harvick,First,1-mile,Day,2:46
+2019,Kentucky,80.6,19.4,"13,923",KuBusch,Only,Intermediate,Night,2:52
+2017,Talladega 2,80,20,"5,474",Keselowski,Second,Super,Day,3:48
+2019,Daytona 1,80,20,"25,398",Hamlin,First,Super,Day,3:46
+2017,Daytona 2,79,21,"4,819",Stenhouse,Second,Super,Night,3:17
+2019,New Hamp.,79,21,"11,113",Harvick,Only,1-mile,Day,3:04
+2017,Pocono 1,79,21,"5,193",Blaney,First,Other,Day,2:48
+2016,Bristol 1,78.9,21.1,"2,074",Edwards,First,Short,Day,3:16
+2020,Bristol 2,78.6,21.4,"13,313",Harvick,Third,Short,Night,2:47
+2016,Darlington,78,22,"2,752",Truex,Only,Other,Night,3:58
+2016,Richmond 2,78,22,"2,748",Hamlin,Second,Short,Night,3:31
+2016,Atlanta,78,22,"2,843",Johnson,Only,Intermediate,Day,3:15
+2017,Sonoma,78,22,"3,705",Harvick,Only,Road,Day,2:47
+2020,Michigan 1,77.3,22.7,"10,212",Harvick,First,2-mile,Day,2:35
+2017,Dover 1,77,23,"4,508",Johnson,First,1-mile,Day,3:52
+2016,Talladega 1,77,23,"2,233",Keselowski,First,Super,Day,3:34
+2020,Charlotte 2,76.2,23.8,"12,725",Elliott,Second,Intermediate,Night,2:29
+2018,Daytona 2,76,24,"8,817",Jones,Second,Super,Night,3:13
+2017,Richmond 1,76,24,"3,981",Logano,First,Short,Day,3:12
+2016,Pocono 1,76,24,"1,994",KuBusch,First,Other,Day,3:11
+2016,Bristol 2,75.4,24.6,"2,425",Harvick,Second,Short,Day,3:25
+2020,Martinsville 1,75.1,24.9,"15,244",Truex,First,Short,Night,3:24
+2017,Daytona 1,75,25,"4,314",KuBusch,First,Super,Day,3:30
+2016,Martinsville 1,75,25,"1,772",KyBusch,First,Short,Day,3:17
+2020,Talladega 2,74.8,25.2,"19,582",Hamlin,Second,Super,Day,4:06
+2020,Fontana,74.7,25.3,"12,623",Bowman,Only,2-mile,Day,2:37
+2018,Richmond 1,74,26,"6,051",KyBusch,First,Short,Night,3:08
+2018,Phoenix 1,74,26,"5,513",Harvick,First,1-mile,Day,2:53
+2016,Michigan 2,74,26,"2,234",Larson,Second,2-mile,Day,2:27
+2020,New Hamp.,73.2,26.8,"14,389",Keselowski,Only,1-mile,Day,3:10
+2017,Darlington,73,27,"5,359",Hamlin,Only,Other,Night,3:47
+2018,Indianapolis,72.8,27.2,"6,895",Keselowski,Only,Other,Day,3:07
+2020,Darlington 3,72.1,27.9,"15,703",Harvick,Third,Intermediate,Night,3:47
+2018,Martinsville 1,72,28,"5,182",Bowyer,First,Short,Day,3:13
+2019,Kansas 2,72,28,"11,495",Hamlin,Second,Intermediate,Day,3:03
+2017,Phoenix 1,72,28,"3,757",Newman,First,1-mile,Day,3:01
+2019,Pocono 2,72,28,"7,680",Hamlin,Second,Other,Day,2:59
+2018,Darlington,71.6,28.4,"7,591",Keselowski,Only,Other,Night,3:49
+2019,Atlanta,71,29,"9,936",Keselowski,Only,Intermediate,Day,3:31
+2016,Las Vegas,71,29,"1,558",Keselowski,Only,Intermediate,Day,2:54
+2020,Kansas 1,70.3,29.7,"14,564",Hamlin,First,Intermediate,Day,3:17
+2019,Richmond 1,70,30,"10,506",Truex,First,Short,Night,3:00
+2017,Indianapolis,69.7,30.3,"7,327",Kahne,Only,Other,Day,3:39
+2020,Daytona RC,69.6,30.4,"18,149",Elliott,Only,Road,Day,2:38
+2019,Texas 1,69,31,"8,847",Hamlin,First,Intermediate,Day,3:16
+2017,Kansas 2,69,31,"3,334",Truex,Second,Intermediate,Day,3:12
+2018,Homestead,68.5,31.5,"6,953",Logano,Only,Intermediate,Day,3:01
+2020,Phoenix 2,68.3,31.7,"18,434",Elliott,Second,1-mile,Day,2:47
+2017,Texas 1,68,32,"3,655",Johnson,First,Intermediate,Day,3:24
+2018,Pocono 2,68,32,"6,018",KyBusch,Second,Other,Day,3:06
+2016,Michigan 1,68,32,"2,170",Logano,First,2-mile,Day,2:59
+2017,Watkins Glen,68,32,"4,237",Truex,Only,Road,Day,2:07
+2020,Homestead,67.9,32.1,"17,506",Hamlin,Only,Intermediate,Night,3:08
+2019,Phoenix 1,67,33,"9,126",KyBusch,First,1-mile,Day,3:04
+2020,Las Vegas 2,66.2,33.8,"15,093",KuBusch,Second,Intermediate,Night,3:04
+2018,Texas 1,66,34,"4,466",KyBusch,First,Intermediate,Day,3:32
+2016,Kansas 2,66,34,"1,947",Harvick,Second,Intermediate,Day,3:00
+2017,Fontana,66,34,"3,607",Larson,Only,2-mile,Day,2:58
+2018,Kansas 1,66,34,"5,875",Harvick,First,Intermediate,Night,2:54
+2016,Charlotte 2,64,36,"2,166",Johnson,Third,Intermediate,Day,3:43
+2017,Bristol 2,64,36,"5,854",KyBusch,Second,Short,Night,2:47
+2020,Indianapolis,63.7,36.3,"15,839",Harvick,Only,Other,Day,3:16
+2019,Indianapolis,63.6,36.7,"10,302",Harvick,Only,Other,Day,3:20
+2017,Charlotte 2,63,37,"4,194",Truex,Third,Intermediate,Day,3:38
+2017,Las Vegas,62,38,"4,124",Truex,Only,Intermediate,Day,2:56
+2017,Dover 2,61,39,"5,535",KyBusch,Second,1-mile,Day,3:06
+2019,Las Vegas 2,61,39,"8,842",Truex,Second,Intermediate,Day,2:49
+2016,Pocono 2,61,39,"2,293",Buescher,Second,Other,Day,2:42
+2019,Michigan 2,61,39,"7,858",Harvick,Second,2-mile,Day,2:41
+2018,Dover 2,60,40,"8,028",Elliott,Second,1-mile,Day,3:18
+2018,Richmond 2,59,41,"6,368",KyBusch,Second,Short,Night,2:55
+2018,Atlanta,58,42,"6,781",Harvick,Only,Intermediate,Day,3:30
+2019,Martinsville 1,58,42,"11,546",Keselowski,First,Short,Day,3:22
+2016,Martinsville 2,58,42,"1,915",Johnson,Second,Short,Day,3:21
+2019,Daytona 2,58,42,"13,064",Haley,Second,Super,Day,2:15
+2020,Pocono 2,57.9,42.1,"14,469",Hamlin,Second,Other,Day,2:51
+2018,Michigan 1,57,43,"4,041",Bowyer,First,2-mile,Day,2:00
+2016,Kentucky,56.7,43.3,"2,446",Keselowski,Only,Intermediate,Night,3:07
+2019,Martinsville 2,56,44,"12,950",Truex,Second,Short,Day,3:29
+2019,Las Vegas 1,56,44,"15,298",Logano,First,Intermediate,Day,2:35
+2020,Texas 1,55.7,44.3,"16,775",Dillon,First,Intermediate,Day,3:39
+2017,Coke 600,55,45,"4,725",A. Dillon,Second,Intermediate,Night,4:19
+2020,Dover 1,54.2,45.8,"10,837",Hamlin,First,1-mile,Day,2:30
+2018,Dover 1,54,46,"5,035",Harvick,First,1-mile,Day,3:29
+2017,Michigan 2,54,46,"4,614",Larson,Second,2-mile,Day,2:41
+2016,Chicago,53,47,"1,749",Truex,Only,Intermediate,Day,2:47
+2020,Michigan 2,53,47,"12,238",Harvick,Second,2-mile,Day,2:10
+2016,Daytona 2,52,48,"2,873",Keselowski,Second,Super,Night,2:41
+2020,All-Star (Bristol),51.9,48.1,"18,532",Elliott,Second,Short,Night,1:08
+2020,Dover 2,50.9,49.1,"11,822",Harvick,Second,1-mile,Day,2:48
+2016,Texas 1,50,50,"2,777",KyBusch,First,Intermediate,Night,3:37
+2017,Texas 2,50,50,"4,481",Harvick,Second,Intermediate,Day,3:30
+2016,Talladega 2,50,50,"2,499",Logano,Second,Super,Day,3:12
+2017,Richmond 2,50,50,"3,792",Larson,Second,Short,Night,3:03
+2017,New Hamp. 1,50,50,"3,704",Hamlin,First,1-mile,Day,3:01
+2016,New Hamp. 1,50,50,"2,273",Kenseth,First,1-mile,Day,2:58
+2019,Michigan 1,50,50,"12,696",Logano,First,2-mile,Day,2:53
+2016,Kansas 1,50,50,"2,538",KyBusch,First,Intermediate,Night,2:49
+2018,Kansas 2,50,50,"6,813",Elliott,Second,Intermediate,Day,2:38
+2020,Coke 600,49.9,50.1,"21,664",Keselowski,First,Intermediate,Night,4:30
+2020,Clash,49.7,50.3,"14,189",Jones,First,Super,Day,1:38
+2018,Talladega 1,49,51,"6,607",Logano,First,Super,Day,3:17
+2018,Pocono 1,49,51,"6,521",Truex,First,Other,Day,2:52
+2020,Kentucky,48.9,51.1,"17,751",Custer,Only,Intermediate,Day,3:00
+2016,New Hamp. 2,48,52,"1,959",Harvick,Second,1-mile,Day,2:54
+2018,Clash,48,52,"5,448",Keselowski,First,Super,Day,1:06
+2018,Sonoma,47,53,"6,190",Truex,Only,Road,Day,2:38
+2020,Texas 2,46.9,53.1,"14,057",KyBusch,Second,Intermediate,Day,3:42
+2017,Atlanta,46,54,"3,890",Keselowski,Only,Intermediate,Day,3:33
+2019,Richmond 2,46,54,"10,335",Truex,Second,Short,Night,2:57
+2017,Michigan 1,46,54,"7,801",Larson,First,2-mile,Day,2:47
+2019,Texas 2,45,55,"9,570",Harvick,Second,Intermediate,Day,3:45
+2016,Coke 600,45,55,"3,159",Truex,Second,Intermediate,Night,3:44
+2020,Richmond,44.3,55.7,"15,861",Keselowski,Only,Short,Night,2:57
+2020,Pocono 1,42.9,57.1,"10,610",Harvick,First,Other,Day,2:25
+2018,Talladega 2,42,58,"9,279",Almirola,Second,Super,Day,3:20
+2019,Dover 1,42,58,"8,877",Truex,First,1-mile,Day,3:09
+2017,Pocono 2,42,58,"5,044",KyBusch,Second,Other,Day,2:50
+2019,Sonoma,42,58,"13,625",Truex,Only,Road,Day,2:42
+2018,Fontana,41,59,"6,382",Truex,Only,2-mile,Day,2:43
+2020,Kansas 2,40.8,59.2,"17,688",Logano,Second,Intermediate,Day,2:54
+2016,All-Star,40,60,"2,856",Logano,First,Intermediate,Night,1:43
+2018,Coke 600,38,62,"8,865",KyBusch,Second,Intermediate,Night,4:23
+2018,Michigan 2,38,62,"7,953",Harvick,Second,2-mile,Day,2:51
+2019,Fontana,37,63,"9,964",KyBusch,Only,2-mile,Day,2:48
+2020,Atlanta,36.8,63.2,"18,016",Harvick,Only,Intermediate,Day,3:30
+2016,Texas 2,35,65,"2,132",Edwards,Second,Intermediate,Day,3:16
+2018,Las Vegas 1,35,65,"7,437",Harvick,First,Intermediate,Day,2:49
+2019,Dover 2,33,67,"11,653",Larson,Second,1-mile,Day,2:57
+2016,Dover 2,30,70,"2,117",Truex,Second,1-mile,Day,3:03
+2019,Homestead,30,70,"16,859",KyBusch,Only,Intermediate,Day,2:49
+2017,Chicago,30,70,"6,564",Truex,Only,Intermediate,Day,2:45
+2017,Kentucky,27.1,72.9,"5,094",Truex,Only,Intermediate,Night,2:58
+2018,Texas 2,27,73,"7,522",Harvick,Second,Intermediate,Day,3:21
+2017,New Hamp. 2,27,73,"4,731",KyBusch,Second,1-mile,Day,2:55
+2019,Pocono 1,24,76,"12,156",KyBusch,First,Other,Day,2:58
+2018,Kentucky,22.9,77.1,"8,409",Truex,Only,Intermediate,Night,2:40
+2019,Clash,21,79,"10,059",Johnson,First,Super,Day,1:20
+2019,Phoenix 2,20,80,"14,605",Hamlin,Second,1-mile,Day,2:48
+2017,All-Star,18,82,"6,745",KyBusch,First,Intermediate,Night,1:12
+2016,Indianapolis,17,83,"3,510",KyBusch,Only,Other,Day,3:18
