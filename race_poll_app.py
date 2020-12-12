@@ -75,7 +75,7 @@ poll_fig = px.scatter(df,
                       )
 poll_fig.update_layout(title_x=0.5)
 poll_fig.update_traces(showlegend=False)
-st.plotly_chart(poll_fig)
+st.plotly_chart(poll_fig, use_container_width=True)
 
 st.header('Poll Growth')
 poll_growth = df.groupby('year')['votes'].agg(['mean', 'max'])
@@ -92,7 +92,7 @@ growth_fig = px.bar(poll_growth, x=poll_growth.index, y='mean',
                     title='Average Votes per Race by Year')
 growth_fig.update_layout(title_x=0.5)
 growth_fig.update_traces(showlegend=False)
-st.plotly_chart(growth_fig)
+st.plotly_chart(growth_fig, use_container_width=True)
 percent_growth = round((15979 - 2387) / 2387 * 100)
 st.write((f'Poll response has grown {percent_growth}% since its '
           'inception in 2016! But, has the racing gotten any better?'))
@@ -119,7 +119,7 @@ dist_fig.for_each_annotation(lambda x: x.update(text=x.text.split("=")[-1]))
 dist_fig.update_xaxes(tickangle=90)
 dist_fig.update_layout(showlegend=False,
                        title_x=0.5)
-st.plotly_chart(dist_fig)
+st.plotly_chart(dist_fig, use_container_width=True)
 
 st.write('''2020 avoided any terrible races
 and produced some of the best racing since the poll started.''')
@@ -145,7 +145,7 @@ tt_fig = px.bar(track_type,
                 title='Good Race % by Track Type 2016-2020',
                 range_y=[0, 100])
 tt_fig.update_layout(title_x=0.5)
-st.plotly_chart(tt_fig)
+st.plotly_chart(tt_fig, use_container_width=True)
 st.markdown(
     '##### *Other type includes: Darlington, Pocono, and Indianapolis.'
     )
@@ -184,7 +184,7 @@ mean_win_fig = px.scatter(mean_like_by_winner.sort_values(
                           title='Average Good Race % by Winner 2016-2020',
                           )
 mean_win_fig.update_layout(title_x=0.5)
-st.plotly_chart(mean_win_fig)
+st.plotly_chart(mean_win_fig, use_container_width=True)
 
 harv_wins = len(df.loc[(df['winner'] == 'Harvick')])
 kb_wins = len(df.loc[(df['winner'] == 'KyBusch')])
@@ -250,7 +250,7 @@ dn_fig = px.bar(day_night,
                 title='Day vs. Night Good Race % by Year'
                 )
 dn_fig.update_layout(title_x=0.5)
-st.plotly_chart(dn_fig)
+st.plotly_chart(dn_fig, use_container_width=True)
 st.write('''People really enjoyed the night races in 2019.''')
 
 st.subheader('2019 Night Races')
@@ -323,7 +323,7 @@ rl_fig.update_layout(
     showlegend=False
 )
 rl_fig.update_layout(title_x=0.5)
-st.plotly_chart(rl_fig)
+st.plotly_chart(rl_fig, use_container_width=True)
 st.write('''We can see that most races last between 2.5-4 hours, and
  Good Race % is close between all race lengths, except for the shortest
  races that last only 1-1.5 hours.''')
