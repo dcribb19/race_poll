@@ -18,7 +18,6 @@ time of race. So, I'm going analyze this data, try to make
 some interesting interactive visualizations, then share them
 through Streamlit.
 
-## Link
 [Take me to the App!](https://share.streamlit.io/dcribb19/race_poll/main/race_poll_app.py)
 
 ## Technologies
