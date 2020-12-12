@@ -16,7 +16,10 @@ Jeff has saved all of the results in a table on his [website](https://jeffgluck.
 including: number of votes, winner, track type, day/night, and
 time of race. So, I'm going analyze this data, try to make
 some interesting interactive visualizations, then share them
-through Streamlit. Let's get started!
+through Streamlit.
+
+## Link
+[Take me to the App!](https://share.streamlit.io/dcribb19/race_poll/main/race_poll_app.py)
 
 ## Technologies
  - Python 3.8.3
